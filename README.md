@@ -1,3 +1,3 @@
-# Aplicacion de registro de usuarios
+# Sistema de registro de usuarios
 
 Este es parte del laboratotio de Git
